@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![github-follow](https://img.shields.io/github/followers/Prajwal100?label=Follow&logoColor=purple&style=social)](https://github.com/Prajwal100)
 [![GitHub stars](https://img.shields.io/github/stars/Prajwal100/Complete-Ecommerce-in-laravel-10.svg?style=social)](https://github.com/Prajwal100/Complete-Ecommerce-in-laravel-10/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Prajwal100/Complete-Ecommerce-in-laravel-10.svg)](https://github.com/Prajwal100/Complete-Ecommerce-in-laravel-10/network)
@@ -129,3 +130,6 @@ If you find this project helpful, consider [buying me a coffee](https://buymeaco
 
 ⭐ **If you find this project helpful, don't forget to star it!** ⭐
 
+=======
+# zyraloom
+>>>>>>> 6d1d6f99dba0f49d7153bd7aae8c2127ccaf66c6
